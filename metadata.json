@@ -1,0 +1,6 @@
+{
+  "name": "VoxTrack AI",
+  "description": "Voice-Based Expense and Task Tracker powered by AI. Speak naturally to manage daily finances, set task reminders, and view smart analytics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
